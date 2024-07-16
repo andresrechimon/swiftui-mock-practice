@@ -2,7 +2,7 @@ Demo:
 
 SPOTYFY
 
-https://github.com/user-attachments/assets/13b4a85f-f478-4d87-8e94-eb15c4d342b9
+https://github.com/user-attachments/assets/4e641faa-0467-4aea-a612-e4b4f02de61a
 
 BUMBLE
 
